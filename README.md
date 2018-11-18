@@ -148,4 +148,4 @@ Step12: Pipeline will be triggered for each commit/check-in to the github projec
 
 Step13: Verify the job from Codepipeline page
 
-Step14: Cleanup all the resources created : VPC, Roles, ECS, S3, CodeBuild, codepipeline etc
+Step14: Cleanup all the resources created : VPC, Polices, Roles, ECS, S3, CodeBuild, codepipeline etc
