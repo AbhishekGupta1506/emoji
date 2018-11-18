@@ -75,3 +75,4 @@ The AWS CodePipeline wizard created an IAM role for the AWS CodeBuild build proj
 	d. Select the box to the left of the AmazonEC2ContainerRegistryPowerUser policy, and choose Attach policy
 Step11: push all the change to github
 Step12: Pipeline will be triggered for each commit/check-in to the github project
+Step13: Verify the job from Codepipeline page
