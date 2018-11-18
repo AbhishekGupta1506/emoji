@@ -147,3 +147,5 @@ Step11: push all the change to github
 Step12: Pipeline will be triggered for each commit/check-in to the github project
 
 Step13: Verify the job from Codepipeline page
+
+Step14: Cleanup all the resources created : VPC, Roles, ECS, S3, CodeBuild, codepipeline etc
